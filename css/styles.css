@@ -81,10 +81,10 @@ pro-li {
 		font-size: 20px;
 }
 
-.background-img{
-    background-image: url(/assets/bg2.png);
-    background-position: center;
-}
+/*.background-img{*/
+    /*background-image: url(/img/bg2.png);*/
+    /*background-position: center;*/
+/*}*/
 
 .text-list {
     font-size: 15px;
